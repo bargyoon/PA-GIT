@@ -1,0 +1,11 @@
+userA의 DEV 브랜치에서 작업중인내용
+
+카카오 로그인 기능 개발 착수
+
+카카오 api문서 학습 완료
+
+카카오 api postman 테스트 완료
+
+MemberController 41번 라인
+
+카카오 개발 완료
